@@ -10,6 +10,8 @@ from .Provider   import (
     Vitalentum,
     ChatgptAi,
     ChatForAi,
+    AItianhu,
+    AItianhuSpace,
     ChatBase,
     Liaobots,
     Yqcloud,
